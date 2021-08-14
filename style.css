@@ -1,8 +1,9 @@
 .body{
- background-color: white    
+ background-color: white ;
+ font-size :100px;  
 }
 .mokuzi {
-   background-color:rgba(133, 250, 158, 0.212)
+   background-color:rgba(133, 250, 158, 0.212);
 }
 img {
     height: 350px;
@@ -49,7 +50,7 @@ img {
   
   .himawari img {
     width: 100%;
-    height: 400px;
+    height: 600px;
     }
 .characuta img {
     height: 276px;
