@@ -5,28 +5,33 @@
    background-color:rgba(133, 250, 158, 0.212);
 }
 img {
-    height: 350px;
-    width: 400px;
+    height: 450px;
+    width: 455px;
 }
 .wakkanai {
     display: flex;
     background-color: rgb(129, 238, 119);
+    font-size: 1.5em;
 }
 .furano {
     display: flex;
     background-color: rgba(220, 129, 247, 0.781);
+    font-size: 1.5em;
 }
 .otaru {
     display: flex;
     background-color: rgba(152, 154, 250, 0.336);
+    font-size: 1.5em;
 }
 .noboribetu {
     display: flex;
     background-color: rgb(243, 99, 99);
+    font-size: 1.5em;
 }
 .touya {
     display: flex;
     background-color: rgba(123, 195, 243, 0.781);
+    font-size: 1.5em;
 }
 .himawari {
     position: relative;
